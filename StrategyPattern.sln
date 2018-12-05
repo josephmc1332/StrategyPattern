@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{369251CF-6AC1-408B-9E4F-74789656515C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleStrategyPattern", "ConsoleStrategyPattern\ConsoleStrategyPattern.csproj", "{C88D78A8-3490-4BE9-B589-138D5A5A38EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{369251CF-6AC1-408B-9E4F-74789656515C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{369251CF-6AC1-408B-9E4F-74789656515C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{369251CF-6AC1-408B-9E4F-74789656515C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88D78A8-3490-4BE9-B589-138D5A5A38EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88D78A8-3490-4BE9-B589-138D5A5A38EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88D78A8-3490-4BE9-B589-138D5A5A38EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88D78A8-3490-4BE9-B589-138D5A5A38EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
